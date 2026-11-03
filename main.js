@@ -127,3 +127,5 @@ fs.access(options.input, fs.constants.F_OK, (err) => {
     console.log(`Сервер запущено: http://${options.host}:${port}/`);
   });
 });
+
+//...
